@@ -1,0 +1,11 @@
+Assembly
+	http://mrjester.hapisan.com/04_MC68/Index.html
+	https://simpledevcode.wordpress.com/2016/12/15/mini-guide-to-68000-assembly-programming/
+	https://www.eeeguide.com/motorola-68000-instruction-set/
+	
+Supervisor Mode
+	http://alanclements.org/68kusersupervisor.html
+	
+Overlays
+	https://www.geeksforgeeks.org/overlays-in-memory-management/
+	
